@@ -18,7 +18,6 @@ public class Main {
         Plane plane = new Plane();
         Ship ship = new Ship();
 
-
         // Bicycle
         invoker.setCommand(new StartCommand(bicycle));
         invoker.setCommand(new AccelerateCommand(bicycle));

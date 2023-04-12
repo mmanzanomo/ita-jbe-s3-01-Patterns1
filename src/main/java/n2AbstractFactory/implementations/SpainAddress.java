@@ -2,7 +2,6 @@ package n2AbstractFactory.implementations;
 
 import n2AbstractFactory.interfaces.IAddress;
 
-import java.util.Scanner;
 
 public class SpainAddress implements IAddress {
     // Spain format address

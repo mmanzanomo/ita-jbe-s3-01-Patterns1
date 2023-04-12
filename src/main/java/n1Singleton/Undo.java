@@ -3,6 +3,10 @@ package n1Singleton;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/*
+ * This class allows you to add, remove or list commands implementing a singleton pattern.
+ */
 public class Undo {
     private static Undo undo;
     private List<String> commands;

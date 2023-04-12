@@ -2,7 +2,6 @@ package n2AbstractFactory.implementations;
 
 import n2AbstractFactory.interfaces.IPhone;
 
-import java.util.Scanner;
 
 public class SpainPhone implements IPhone {
     private String contact;

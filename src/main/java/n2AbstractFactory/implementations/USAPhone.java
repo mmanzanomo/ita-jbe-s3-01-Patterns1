@@ -2,7 +2,6 @@ package n2AbstractFactory.implementations;
 
 import n2AbstractFactory.interfaces.IPhone;
 
-import java.util.Scanner;
 
 public class USAPhone implements IPhone {
     private static final String PREFIX = "+1";
